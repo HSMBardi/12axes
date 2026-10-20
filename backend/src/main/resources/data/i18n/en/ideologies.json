@@ -1901,5 +1901,12 @@
     "category": "Right",
     "description": "Conservatism that protects institutions, family and order without doctrinal rigidity: it allows gradual reform and concessions in order to conserve the essential, in the line of Burke and Disraeli, rather than restoring an idealized past.",
     "phrase": "I want to conserve family, civic faith and institutions through gradual reform, with parliament, order and a market tempered by one-nation duty."
+  },
+  {
+    "id": "federalismo-dhármico",
+    "name": "Dharmic Federalism",
+    "category": "Right",
+    "description": "An ancient statecraft model that safeguards constitutional duty, regional self-governance, and social order through pragmatic governance. It balances strong executive authority with decentralized autonomy (Janapadas), ethical market regulation, and meritocratic mobility (Guna-Karma) to sustain systemic harmony (Dharma) without rigid dogma.",
+    "phrase": "I want to preserve systemic harmony, moral duty, and regional self-governance through pragmatic statecraft, with strong constitutional order, meritocratic mobility, and a market tempered by an ethical referee state."
   }
 ]
