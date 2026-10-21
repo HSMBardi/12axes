@@ -10589,5 +10589,22 @@
       "moral": 25.3,
       "tecnologia": 63.0
     }
+  },
+   {
+    "personalityId": "krishna",
+    "vector": {
+      "estrutura": 70.0,
+      "representacao": 30.0,
+      "poder": 40.0,
+      "imigracao": 70.0,
+      "diplomacia": 85.0,
+      "intervencao": 80.2,
+      "economia": 75.3,
+      "controle": 70.0,
+      "comercio": 46.0,
+      "religiao": 0.0,
+      "moral": 50.0,
+      "tecnologia": 60.0
+    }
   }
 ]
